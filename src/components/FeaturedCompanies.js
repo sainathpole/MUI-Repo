@@ -2,15 +2,15 @@ import React from "react";
 import { Grid, Paper, Typography, Box } from "@mui/material";
 
 const companies = [
-  { name: "Aurora Solar", logo: require("../images/aurora.png") },
-  { name: "NYSE: BLND", logo: require("../images/blend.png") },
-  { name: "NYSE: DOMA", logo: require("../images/doma.png") },
-  { name: "Flyhomes", logo: require("../images/flyhomes.png") },
+  { name: "WEB DESIEN DEVLOPMENT", logo: require("../images/img1.jpg") },
+  { name: "AI", logo: require("../images/img2.jpg") },
+  { name: "AWS", logo: require("../images/img3.jpg") },
+  { name: "MACHINE LEARNING", logo: require("../images/img4.jpg") },
 ];
 
 const FeaturedCompanies = () => {
   return (
-    <Box p={4} bgcolor="#f8f8f8">
+    <Box p={4} bgcolor="lavender">
       <Typography variant="h6" gutterBottom>
         Featured
       </Typography>

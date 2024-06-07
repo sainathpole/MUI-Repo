@@ -11,9 +11,9 @@ function Header() {
         <Button color="inherit">About</Button>
         <Button color="inherit">Team</Button>
         <Button color="inherit">Portfolio</Button>
-        <Button color="inherit">Corporate Partners</Button>
-        <Button color="inherit">Insights</Button>
-        <Button color="inherit">Investor Portal</Button>
+        <Button color="inherit">project</Button>
+        <Button color="inherit">haring</Button>
+        <Button color="inherit">management structure</Button>
       </Toolbar>
     </AppBar>
   );
