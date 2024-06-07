@@ -50,6 +50,12 @@ const Sidebar = () => {
           </ListItemIcon>
           <ListItemText primary="help" />
         </ListItem>
+        <ListItem button>
+          <ListItemIcon>
+            <ContactMailIcon sx={{ color: "black" }} />
+          </ListItemIcon>
+          <ListItemText primary="Setting" />
+        </ListItem>
       </List>
     </Box>
   );
